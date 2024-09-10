@@ -50,5 +50,5 @@ def test_median():
 
 def test_mode():
   assert math_it_up.mode([1, 2, 2, 2, 3]) == [2]
-  assert math_it_up.mode([1,24 2, 7, 6, 6, 3]) == [6]
+  assert math_it_up.mode([1,24, 2, 7, 6, 6, 3]) == [6]
  
